@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Dan Wild
 description: A short description of your site's purpose
-show_downloads: true
+show_downloads: false
 google_analytics: UA-102358522-1
